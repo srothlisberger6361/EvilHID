@@ -7,7 +7,7 @@ HID Keystroke injection for the RP2040-Zero designed to (upon plug in) create a 
 
 ## Make your own EvilHID
 
-BLOG: 
+BLOG: https://medium.com/@sam.rothlisberger/evilhid-circuit-python-rp2040-zero-for-a-home-made-rubber-ducky-18465d9734c8?postPublishedType=repub
 
 - Hold down the BOOT button on your RP2040-zero and plug it in.
 - Once you see the RPI-RP2 drive, drag the `adafruit-circuitpython-waveshare_rp2040_zero-en_US-10.0.3.uf2` file into it.
